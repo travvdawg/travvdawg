@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://1travis-portfolio.netlify.app/](https://1travis-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-yRb9IW-KZwACScQf4IBvun_7SXWSQkv/view?usp=drive_link](https://drive.google.com/file/d/1-yRb9IW-KZwACScQf4IBvun_7SXWSQkv/view?usp=drive_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ZaYGBw5mQuQ66cMThDR5xt_OutfYI1Jo/edit](https://docs.google.com/document/d/1ZaYGBw5mQuQ66cMThDR5xt_OutfYI1Jo/edit)
 
 - ⚡ Fun fact **I still think Overwatch 2 is a fun game (I know it's dead)**
 
